@@ -1,6 +1,5 @@
 package koschei.config;
 
-import koschei.models.Deth8;
 import koschei.models.Duck5;
 import koschei.models.Egg6;
 import koschei.models.Island2;
